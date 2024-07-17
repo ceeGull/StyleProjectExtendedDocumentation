@@ -16,7 +16,7 @@ import pprint as pp
 import re
 
 # LIST
-data = [[line for line in text] for text in [open(f"/usr/share/cOS/DES/txt/{file}", 'r').read().splitlines() for file in os.listdir("/usr/share/cOS/DES/txt")]]
+data = [[line for line in text] for text in [open(f"{GF_FILE_PATH}/txt/{file}", 'r').read().splitlines() for file in os.listdir(f"{GF_FILE_PATH}/txt")]]
 data_c = [[0, 0], 0, 0, 0]
 data_copy = data.copy() # ;Use this as we're going to overwrite the original
 # DICT
