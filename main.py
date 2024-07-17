@@ -2,7 +2,7 @@
 #                                 main.py                                       #
 #-------------------------------------------------------------------------------#
 # By             | cGull                                                        #
-# Date           | August 30, 2023 (8/30/2023)                                  #
+# Date           | July 16, 2024 (7/16/2024)                                    #
 # Version        | 1                                                            #
 # Source Code    | Probably will be just because there is missing documentation #
 #################################################################################
