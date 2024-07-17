@@ -2,8 +2,8 @@
 This is a project that attempts to replicate current and previous macOS versions' window decorations and application style, in the projects documentation though not everything is there, this project is a way to include all information
 
 If you want to try this window decoration go [here](https://sourceforge.net/projects/styleproject/)  
-_Note: Some code in this project does some of the source code from that project here_
-_[settings.h](https://sourceforge.net/p/styleproject/code/ci/master/tree/config/settings.h)_
+_Note: Some code in this project does some of the source code from that project here_  
+_[settings.h](https://sourceforge.net/p/styleproject/code/ci/master/tree/config/settings.h)_  
 _[settings.cpp](https://sourceforge.net/p/styleproject/code/ci/master/tree/config/settings.cpp)_
 
 ## General Options
