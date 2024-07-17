@@ -7,11 +7,8 @@
 # Source Code    | Probably will be just because there is missing documentation #
 #################################################################################
 # ;imports
-try:
-    from GF import *
-except ImportError as IE:
-    print(f"IMPORT ERROR: {IE}")
-
+import os
+import os.path
 import pprint as pp
 import re
 
